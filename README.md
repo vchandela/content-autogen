@@ -1,1 +1,1 @@
-# content-autogen
+### go run main.go
